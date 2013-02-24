@@ -1,0 +1,99 @@
+{
+    "identifiers": {
+        "state": 10002, 
+        "votesmart": 20208,
+        "mprvotetracker": 174
+    },
+    "common_name": "Jim Abeler", 
+    "body": "Minnesota House of Representatives",
+    "position": "Representative", 
+    "state": "Minnesota", 
+    "district": "35A", 
+    "party": "Republican Party of Minnesota", 
+    "party_classification": "Republican",
+    "date_of_birth": "1954-05-18", 
+    "first_elected": 1998,
+    "gender": "Male", 
+    "profession": "Chiropractor", 
+    "religion": "Baptist", 
+    "name": {
+        "first": "James", 
+        "middle": "J.", 
+        "last": "Abeler", 
+        "prefix": "Dr.",
+        "suffix": "II",
+        "nickname": "Jim", 
+        "proper": "Rep. Jim Abeler"
+    },
+    "emails": {
+        "office": "rep.jim.abeler@house.mn",
+        "campaign": "jim@jimabeler.com", 
+    }, 
+    "links": {
+        "campaign": "http://jimabeler.com/", 
+        "legislator": "http://www.house.leg.state.mn.us/members/members.asp?id=10002", 
+        "wikipedia": "http://en.wikipedia.org/wiki/Jim_Abeler"
+    }, 
+    "social": {
+        "facebook_personal": "jim.abeler"
+    }, 
+    "phones": {
+        "office": "651-296-1729",
+        "business": "763-421-3722"
+    }, 
+    "addresses": {
+        "home": {
+            "street": "3400 Rum River Drive", 
+            "city": "Anoka", 
+            "state": "MN", 
+            "zip": 55303
+        }, 
+        "business": {
+            "business": "Abeler Chiropractic Clinic",
+            "street": "600 E Main St",
+            "city": "Anoka",
+            "state": "MN",
+            "zip": 55303
+        },
+        "office": {
+            "street": "203 State Office Building", 
+            "city": "St. Paul", 
+            "state": "MN", 
+            "zip": "55155-1298"
+        }
+    }, 
+    "education": [
+        {
+            "school": "Anoka High School", 
+            "type": "High School"
+        }, 
+        {
+            "school": "University of Minnesota", 
+            "type": "College"
+        }, 
+        {
+            "school": "Hamline University", 
+            "type": "College"
+        }, 
+        {
+            "school": "Northwestern College of Chiropractic", 
+            "type": "College",
+            "degree": "D.C.", 
+            "awarded": 1979
+        }
+    ], 
+    "finance": {
+        "14819": {
+            "agency": "Minnesota Campaign Finance Board",
+            "committee": "(James) Abeler Volunteer Committee"
+        }
+    },
+    "terms": {
+        "81": {
+            "body": "Minnesota House of Representatives", 
+            "district": "49A", 
+            "election_date": "1998-11-03", 
+            "term_dates": ["1999-01-05", "2001-01-02"]
+        }
+    }
+}
